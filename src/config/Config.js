@@ -15,6 +15,7 @@ const Config = {
     [ 
         { name: '전체', value: 'all', icon: 'heart-fill', variant: 'danger' },
         { name: '개발', value: '개발', icon: 'code-square' , variant: 'dark' },
+        { name: '스터디', value: '스터디', icon: 'book' , variant: 'secondary' },
         { name: '리뷰', value: '리뷰', icon: 'box', variant: 'primary' },
         { name: '일상', value: '일상', icon: 'emoji-laughing-fill', variant: 'warning' },
         { name: '생각', value: '생각', icon: 'chat-dots-fill', variant: 'info' }
