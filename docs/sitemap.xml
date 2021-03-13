@@ -4,7 +4,7 @@
         <loc>https://himupsi.github.io/</loc>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
-        <lastmod>2021-03-09</lastmod>
+        <lastmod>2021-03-13</lastmod>
     </url>
     <url>
         <loc>https://himupsi.github.io/?/post/2020_12_23_github_page</loc>
@@ -41,6 +41,12 @@
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
         <lastmod>2021-02-08</lastmod>
+    </url>
+    <url>
+        <loc>https://himupsi.github.io/?/post/2021_03_01_study_javascript</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2021-03-01</lastmod>
     </url>
     <url>
         <loc>https://himupsi.github.io/?/post/2021_03_04_review_devlog</loc>
