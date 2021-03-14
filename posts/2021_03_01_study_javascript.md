@@ -20,12 +20,12 @@ tags: [ Javascript ]
 
 ### Javascipt 개발자가 알아야 하는 개념이라고한다.
 
-영어로 되어어 있어 하나하나보려면 시간이 걸릴 것 같다.
-`참고로 (🚀 2018년 깃허브 최고의 오픈소스 프로젝트 중 하나로 선정되었습니다!)`이렇게 되어 있다.
+영어로 되어어 있어 하나하나보려면 시간이 걸릴 것 같다.  
+참고로 `🚀 2018년 깃허브 최고의 오픈소스 프로젝트 중 하나로 선정되었습니다!` 이렇게 쓰여 있다.
 
 * [Github 페이지 - 모든 자바스크립트 개발자가 알아야 하는 33가지 개념](https://github.com/leonardomso/33-js-concepts)
 
 
-### 제일 정확한 자습서
+### 제일 좋은 자습서
 
 * [MDN Web Docs - Javascript](https://developer.mozilla.org/ko/docs/Web/JavaScript)
