@@ -1,5 +1,5 @@
 {
-	"createDate": "202103140627",
+	"createDate": "202103140723",
 	"categoriesTags": {
 		"개발": [
 			"Github",
@@ -128,7 +128,7 @@
 			],
 			"id": "2021_03_01_study_javascript",
 			"name": "2021_03_01_study_javascript.md",
-			"md": "## 초심으로 돌아가 Javascript를 다시 들어다 보자.\n\n취업을 준비하며 이것 저것 공부하다 보니 Front-End 개발자인데도 javascript를 대한 생각보다 지식이 부족한 것을 깨닫게 되었다.  \n초심으로 돌아가 Javascript를 다시 공부하며 이 포스트에 정리해서 작성해 볼 예정이다.\n\n## 공부할 것들\n\n### Javascript 함수가 어떻게 동작하는지 이해가 쉽게 설명해준 동영상이 있어 링크를 추가한다.\n\n* [유튜브 - 이벤트 루프는 무엇입니까?](https://www.youtube.com/watch?v=8aGhZQkoFbQ&list=LL&index=1&t=5s)\n\n### Javascipt 개발자가 알아야 하는 개념이라고한다.\n\n영어로 되어어 있어 하나하나보려면 시간이 걸릴 것 같다.\n`참고로 (🚀 2018년 깃허브 최고의 오픈소스 프로젝트 중 하나로 선정되었습니다!)`이렇게 되어 있다.\n\n* [Github 페이지 - 모든 자바스크립트 개발자가 알아야 하는 33가지 개념](https://github.com/leonardomso/33-js-concepts)\n\n\n### 제일 정확한 자습서\n\n* [MDN Web Docs - Javascript](https://developer.mozilla.org/ko/docs/Web/JavaScript)"
+			"md": "## 초심으로 돌아가 Javascript를 다시 들어다 보자.\n\n취업을 준비하며 이것 저것 공부하다 보니 Front-End 개발자인데도 javascript를 대한 생각보다 지식이 부족한 것을 깨닫게 되었다.  \n초심으로 돌아가 Javascript를 다시 공부하며 이 포스트에 정리해서 작성해 볼 예정이다.\n\n## 공부할 것들\n\n### Javascript 함수가 어떻게 동작하는지 이해가 쉽게 설명해준 동영상이 있어 링크를 추가한다.\n\n* [유튜브 - 이벤트 루프는 무엇입니까?](https://www.youtube.com/watch?v=8aGhZQkoFbQ&list=LL&index=1&t=5s)\n\n### Javascipt 개발자가 알아야 하는 개념이라고한다.\n\n영어로 되어어 있어 하나하나보려면 시간이 걸릴 것 같다.  \n참고로 `🚀 2018년 깃허브 최고의 오픈소스 프로젝트 중 하나로 선정되었습니다!` 이렇게 쓰여 있다.\n\n* [Github 페이지 - 모든 자바스크립트 개발자가 알아야 하는 33가지 개념](https://github.com/leonardomso/33-js-concepts)\n\n\n### 제일 좋은 자습서\n\n* [MDN Web Docs - Javascript](https://developer.mozilla.org/ko/docs/Web/JavaScript)"
 		},
 		{
 			"title": "Github 페이지(개발 블로그) 개발 후기",
