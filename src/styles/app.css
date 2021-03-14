@@ -835,6 +835,12 @@
         height: 80px;
     }
 
+    .u-posts-list .u-post-item-summary
+    {
+        font-size: 80%;
+        line-height: 1.3em;
+    }
+
     .u-posts-grid .u-post-item-thumbnail
     {
         flex: 0 0 70px;
